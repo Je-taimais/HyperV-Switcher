@@ -87,5 +87,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Je-taimais">Je-taimais</a>
+  Made with ❤️ by <a href="https://github.com/Je-taimais">Je-taimais</a> · <a href="README.zh-CN.md">简体中文</a>
 </p>

@@ -75,5 +75,5 @@ Hyper-V 与 **VMware**、**VirtualBox** 等其他虚拟化平台以及部分**�
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Je-taimais">Je-taimais</a>
+  Made with ❤️ by <a href="https://github.com/Je-taimais">Je-taimais</a> · <a href="README.md">English</a>
 </p>
