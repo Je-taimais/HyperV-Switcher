@@ -66,7 +66,7 @@ Hyper-V 与 **VMware**、**VirtualBox** 等其他虚拟化平台以及部分**�
 
 > ⚠️ **需要管理员权限。** 如果未以管理员身份运行，脚本会自动检测并提醒你。
 
-## 🖼️ 运行截图 <a id="运行截图"></a>
+## 🖼️ 运行截图 <a id="screenshot"></a>
 
 <img src="screenshots/hyperv-switcher-demo.png" width="700" alt="Hyper-V 切换工具截图" />
 
