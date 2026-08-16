@@ -1,7 +1,7 @@
 <h1 align="center">Hyper-V Switcher（Hyper-V 切换工具）</h1>
 
 <p align="center">
-  一个<strong>切换 Hyper-V </strong>的轻量级Windows批处理脚本。
+  一个用于<strong>切换 Hyper-V </strong>的轻量级Windows批处理脚本。
 </p>
 
 <p align="center">
