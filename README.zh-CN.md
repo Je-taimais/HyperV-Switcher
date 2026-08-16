@@ -27,7 +27,7 @@
 
 ---
 
-## 🎬 这是什么？
+## 🎬 这是什么？ <a id="what-is-it"></a>
 
 **Hyper-V Switcher（Hyper-V 切换工具）** 是一个轻量级 Windows 批处理脚本，让你**一键开启或关闭 Hyper-V**——不用再死记硬背 `bcdedit` 和 `dism` 命令，也不用反复打开命令提示符。
 
@@ -36,7 +36,7 @@
 - **虚拟机平台** 功能（`dism /online /enable-feature ...`）
 - **Windows 虚拟机监控程序平台** 功能（`dism /online /enable-feature ...`）
 
-## 🎯 解决了什么问题？
+## 🎯 解决了什么问题？ <a id="problem"></a>
 
 | 场景 | 没有这个工具 | 使用 Hyper-V Switcher |
 |:---|:---|:---|
@@ -46,7 +46,7 @@
 
 Hyper-V 与 **VMware**、**VirtualBox** 等其他虚拟化平台以及部分**带反作弊的游戏**存在冲突。本工具让切换变得轻松自如。
 
-## 🚀 安装
+## 🚀 安装 <a id="installation"></a>
 
 1. [下载](../../archive/refs/heads/main.zip) 或克隆仓库：
    ```bash
@@ -56,7 +56,7 @@ Hyper-V 与 **VMware**、**VirtualBox** 等其他虚拟化平台以及部分**�
 
 就这么简单。无需安装，无任何依赖。
 
-## ✨ 使用方法
+## ✨ 使用方法 <a id="usage"></a>
 
 | 选项 | 操作 | 需要重启？ |
 |:---:|:---|:---:|
@@ -66,11 +66,11 @@ Hyper-V 与 **VMware**、**VirtualBox** 等其他虚拟化平台以及部分**�
 
 > ⚠️ **需要管理员权限。** 如果未以管理员身份运行，脚本会自动检测并提醒你。
 
-## 🖼️ 运行截图
+## 🖼️ 运行截图 <a id="运行截图"></a>
 
 <img src="screenshots/hyperv-switcher-demo.png" width="700" alt="Hyper-V 切换工具截图" />
 
-## 📄 开源许可证
+## 📄 开源许可证 <a id="license"></a>
 
 本项目基于 [MIT License](LICENSE) 开源协议发布。
 
