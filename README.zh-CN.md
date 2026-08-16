@@ -1,6 +1,10 @@
 <h1 align="center">Hyper-V Switcher（Hyper-V 切换工具）</h1>
 
 <p align="center">
+  一个<strong>轻量级 Windows 批处理脚本</strong>。
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version" />
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License" />
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%2010%2B-lightgrey" alt="Platform" />
