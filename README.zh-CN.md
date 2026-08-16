@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/language-Batchfile-orange" alt="Language" />
 </p>
 
----
-
 <p align="center">
   <strong><a href="#installation">安装</a></strong> •
   <strong><a href="#what-is-it">这是什么？</a></strong> •
