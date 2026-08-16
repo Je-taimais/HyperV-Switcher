@@ -1,4 +1,4 @@
-# ⚡ Hyper-V Switcher（Hyper-V 切换工具）
+<h1 align="center">Hyper-V Switcher（Hyper-V 切换工具）</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version" />
