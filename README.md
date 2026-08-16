@@ -1,4 +1,8 @@
-# ⚡ Hyper-V Switcher
+<h1 align="center">Hyper-V Switcher</h1>
+
+<p align="center">
+  A lightweight Windows batch script for <strong>toggling Hyper‑V</strong>.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version" />
@@ -6,8 +10,6 @@
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%2010%2B-lightgrey" alt="Platform" />
   <img src="https://img.shields.io/badge/language-Batchfile-orange" alt="Language" />
 </p>
-
----
 
 <p align="center">
   <strong><a href="#installation">Installation</a></strong> •
