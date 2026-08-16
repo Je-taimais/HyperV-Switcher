@@ -27,7 +27,7 @@
 
 ---
 
-## 🎬 What is it?
+## 🎬 What is it? <a name="what is it"></a>
 
 **Hyper-V Switcher** is a lightweight Windows batch script that lets you **toggle Hyper-V on or off with a single click** — no more digging into Command Prompt, no more memorizing `bcdedit` and `dism` commands.
 
@@ -36,7 +36,7 @@ It handles the full stack:
 - **Virtual Machine Platform** feature (`dism /online /enable-feature ...`)
 - **Windows Hypervisor Platform** feature (`dism /online /enable-feature ...`)
 
-## 🎯 Problem It Solves
+## 🎯 Problem It Solves <a name="Problem"></a>
 
 | Scenario | Without This Tool | With Hyper-V Switcher |
 |:---|:---|:---|
@@ -46,7 +46,7 @@ It handles the full stack:
 
 Hyper-V conflicts with other virtualization platforms like **VMware**, **VirtualBox**, and some **games with anti-cheat**. This tool makes switching painless.
 
-## 🚀 Installation
+## 🚀 Installation <a name="installation"></a>
 
 1. [Download](../../archive/refs/heads/main.zip) or clone this repo:
    ```bash
@@ -56,7 +56,7 @@ Hyper-V conflicts with other virtualization platforms like **VMware**, **Virtual
 
 That's it. No install, no dependencies.
 
-## ✨ Usage
+## ✨ Usage <a name="Usage"></a>
 
 ```
 ==============================================
@@ -78,11 +78,11 @@ That's it. No install, no dependencies.
 
 > ⚠️ **Administrator privileges are required.** The script will detect and remind you if not running as admin.
 
-## 🖼️ Screenshot
+## 🖼️ Screenshot <a name="Screenshot"></a>
 
 <img src="screenshots/hyperv-switcher-demo.png" width="700" alt="Hyper-V Switcher Screenshot" />
 
-## 📄 License
+## 📄 License <a name="License"></a>
 
 This project is licensed under the [MIT License](LICENSE).
 
